@@ -1,0 +1,65 @@
+[
+  {
+    "icon": "fa fa-home",
+    "slug": "external",
+    "title": "Volver al inicio",
+    "path": "index.html"
+  },  { 
+    "id": 1,
+    "icon": "fa fa-file-text",
+    "slug": "introduccion",
+    "title": "Introducción",
+    "breadcrumb": ["Inicio","Introducción"],
+    "path": "pages/introduccion.html"
+  },  
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text",
+    "slug": "El_proceso_de_control_en_calidad",
+    "title": "1. El proceso de control en calidad",
+    "breadcrumb": ["Inicio","Introducción"],
+    "path": "pages/1-tema.html",    
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "El_proceso_de_control_en_calidad",
+        "title": "1.1. Control de calidad",
+        "anchor": "11"
+      },   
+      {
+        "icon": "fa fa-file-text",
+        "slug": "El_proceso_de_control_en_calidad",
+        "title": "1.2. Gestión de calidad total",
+        "anchor": "12"
+      },   
+      {
+        "icon": "fa fa-file-text",
+        "slug": "El_proceso_de_control_en_calidad",
+        "title": "1.3. Sistema de gestión de la calidad: norma ISO 9001:2015",
+        "anchor": "13"
+      }     
+    ]   
+  },
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text",
+    "slug": "Ficha_tecnica_y_muestra_fisica",
+    "title": "2. Ficha técnica y muestra física",
+    "breadcrumb": ["Inicio","Introducción"],
+    "path": "pages/2-tema.html",    
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "Ficha_tecnica_y_muestra_fisica",
+        "title": "3. Puntos de control de calidad en el proceso de confección",
+        "anchor": "3"
+      },   
+      {
+        "icon": "fa fa-file-text",
+        "slug": "Ficha_tecnica_y_muestra_fisica",
+        "title": "4. Documentación de calidad",
+        "anchor": "4"
+      }   
+    ]   
+  }
+]

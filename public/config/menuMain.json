@@ -51,15 +51,125 @@
       {
         "icon": "fa fa-file-text",
         "slug": "Ficha_tecnica_y_muestra_fisica",
-        "title": "3. Puntos de control de calidad en el proceso de confección",
+        "title": "2.1. Concepto y uso de ficha técnica",
         "anchor": "3"
       },   
       {
         "icon": "fa fa-file-text",
         "slug": "Ficha_tecnica_y_muestra_fisica",
-        "title": "4. Documentación de calidad",
-        "anchor": "4"
-      }   
+        "title": "2.2. Partes de ficha técnica",
+        "anchor": "22"
+      },   
+      {
+        "icon": "fa fa-file-text",
+        "slug": "Ficha_tecnica_y_muestra_fisica",
+        "title": "2.3. Manejo e interpretación ficha técnica",
+        "anchor": "23"
+      },   
+      {
+        "icon": "fa fa-file-text",
+        "slug": "Ficha_tecnica_y_muestra_fisica",
+        "title": "2.4. Definición y características de la muestra física",
+        "anchor": "24"
+      }     
+    ]   
+  },
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text",
+    "slug": "Puntos_de_control_de_calidad_en_el_proceso_de_confeccion",
+    "title": "3. Puntos de control de calidad en el proceso de confección",
+    "breadcrumb": ["Inicio","Introducción"],
+    "path": "pages/3-tema.html",    
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "Puntos_de_control_de_calidad_en_el_proceso_de_confeccion",
+        "title": "3.1. Puntos de control en patronaje",
+        "anchor": "31"
+      },   
+      {
+        "icon": "fa fa-file-text",
+        "slug": "Puntos_de_control_de_calidad_en_el_proceso_de_confeccion",
+        "title": "3.2. Puntos de control en trazo y corte",
+        "anchor": "32"
+      },   
+      {
+        "icon": "fa fa-file-text",
+        "slug": "Puntos_de_control_de_calidad_en_el_proceso_de_confeccion",
+        "title": "3.3. Puntos de control en confección",
+        "anchor": "33"
+      } ,   
+      {
+        "icon": "fa fa-file-text",
+        "slug": "Puntos_de_control_de_calidad_en_el_proceso_de_confeccion",
+        "title": "3.4. Puntos de control en producto en proceso",
+        "anchor": "34"
+      } ,   
+      {
+        "icon": "fa fa-file-text",
+        "slug": "Puntos_de_control_de_calidad_en_el_proceso_de_confeccion",
+        "title": "3.5. Puntos de control en producto terminado",
+        "anchor": "35"
+      } ,   
+      {
+        "icon": "fa fa-file-text",
+        "slug": "Puntos_de_control_de_calidad_en_el_proceso_de_confeccion",
+        "title": "3.6. Puntos de control en producto en proceso",
+        "anchor": "36"
+      } ,   
+      {
+        "icon": "fa fa-file-text",
+        "slug": "Puntos_de_control_de_calidad_en_el_proceso_de_confeccion",
+        "title": "3.7. Puntos de control en compras: materiales e insumos",
+        "anchor": "37"
+      }    
+    ]   
+  },
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text",
+    "slug": "Documentacion_de_calidad",
+    "title": "4. Documentación de calidad",
+    "breadcrumb": ["Inicio","Introducción"],
+    "path": "pages/4-tema.html",    
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "Documentacion_de_calidad",
+        "title": "4.1. Ficha técnica",
+        "anchor": "41"
+      },   
+      {
+        "icon": "fa fa-file-text",
+        "slug": "Documentacion_de_calidad",
+        "title": "4.2. Orden de corte",
+        "anchor": "42"
+      },   
+      {
+        "icon": "fa fa-file-text",
+        "slug": "Documentacion_de_calidad",
+        "title": "4.3. Máster de textiles e insumos",
+        "anchor": "43"
+      },   
+      {
+        "icon": "fa fa-file-text",
+        "slug": "Documentacion_de_calidad",
+        "title": "4.4. Registro de inspección de producto en proceso",
+        "anchor": "44"
+      },   
+      {
+        "icon": "fa fa-file-text",
+        "slug": "Documentacion_de_calidad",
+        "title": "4.5. Registro de inspección de producto terminado",
+        "anchor": "45"
+      },   
+      {
+        "icon": "fa fa-file-text",
+        "slug": "Documentacion_de_calidad",
+        "title": "4.6. Registro de inspección de lote piloto",
+        "anchor": "46"
+      }    
     ]   
   }
 ]

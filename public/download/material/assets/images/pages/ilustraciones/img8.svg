@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="210" height="118" viewBox="0 0 210 118">
+  <g id="Polígono_4" data-name="Polígono 4" transform="translate(210 118) rotate(180)" fill="#34546a">
+    <path d="M 208.8858032226562 117.5 L 1.114193081855774 117.5 L 105 0.7521408796310425 L 208.8858032226562 117.5 Z" stroke="none"/>
+    <path d="M 105 1.504310607910156 L 2.228408813476562 117 L 207.7715911865234 117 L 105 1.504310607910156 M 105 0 L 210 118 L 0 118 L 105 0 Z" stroke="none" fill="#707070"/>
+  </g>
+</svg>

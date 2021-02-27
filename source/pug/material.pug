@@ -36,18 +36,27 @@ html(lang="es")
                             .card-body
 
                                 ul.list-group.list-group-flush.list.my-n3.nav-temas
-                                    +navTemaItem('1', 'El proceso de control en calidad', '#tema-1')
-                                    +navTemaItem('2', 'Ficha técnica y muestra física', '#tema-2')
+                                    +navTemaItem('text', 'Introducción', 'main.html#page/#tema-1/')
+                                    +navTemaItem('1', 'El proceso de control en calidad', '#tema-2')
+                                    +navTemaItem('2', 'Ficha técnica y muestra física', '#tema-3')
+                                    +navTemaItem('3', 'Puntos de control de calidad en el proceso de confección', 'main.html#page/#tema-4/')
+                                    +navTemaItem('4', 'Documentación de calidad', 'main.html#page/#tema-5/')
                                     +navTemaItem('glosary', 'Glosario', '#glosario')
                                     +navTemaItem('folder', 'Material complementario', '#anexos')
                                     +navTemaItem('references', 'Referencias bibliográficas', '#referencias')
 
 
-        section#mainContent         
+        section#mainContent     
             #tema-1
-                include pages/1-tema.pug
+                include pages/introduccion.pug
             #tema-2
+                include pages/1-tema.pug
+            #tema-3
                 include pages/2-tema.pug
+            #tema-4
+                include pages/3-tema.pug
+            #tema-5
+                include pages/4-tema.pug
             #glosario
                 include pages/glosario.pug
             #anexos

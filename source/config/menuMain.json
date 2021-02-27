@@ -13,7 +13,7 @@
     "path": "pages/introduccion.html"
   },  
   { 
-    "id": 1,
+    "id": 2,
     "icon": "fa fa-file-text",
     "slug": "El_proceso_de_control_en_calidad",
     "title": "1. El proceso de control en calidad",
@@ -41,7 +41,7 @@
     ]   
   },
   { 
-    "id": 1,
+    "id": 3,
     "icon": "fa fa-file-text",
     "slug": "Ficha_tecnica_y_muestra_fisica",
     "title": "2. Ficha técnica y muestra física",
@@ -75,7 +75,7 @@
     ]   
   },
   { 
-    "id": 1,
+    "id": 4,
     "icon": "fa fa-file-text",
     "slug": "Puntos_de_control_de_calidad_en_el_proceso_de_confeccion",
     "title": "3. Puntos de control de calidad en el proceso de confección",
@@ -103,31 +103,19 @@
       {
         "icon": "fa fa-file-text",
         "slug": "Puntos_de_control_de_calidad_en_el_proceso_de_confeccion",
-        "title": "3.4. Puntos de control en producto en proceso",
+        "title": "3.4. Puntos de control en confección de lote piloto",
         "anchor": "34"
       } ,   
       {
         "icon": "fa fa-file-text",
         "slug": "Puntos_de_control_de_calidad_en_el_proceso_de_confeccion",
-        "title": "3.5. Puntos de control en producto terminado",
+        "title": "3.5. Puntos de control en compras: materiales e insumos",
         "anchor": "35"
-      } ,   
-      {
-        "icon": "fa fa-file-text",
-        "slug": "Puntos_de_control_de_calidad_en_el_proceso_de_confeccion",
-        "title": "3.6. Puntos de control en producto en proceso",
-        "anchor": "36"
-      } ,   
-      {
-        "icon": "fa fa-file-text",
-        "slug": "Puntos_de_control_de_calidad_en_el_proceso_de_confeccion",
-        "title": "3.7. Puntos de control en compras: materiales e insumos",
-        "anchor": "37"
-      }    
+      }  
     ]   
   },
   { 
-    "id": 1,
+    "id": 5,
     "icon": "fa fa-file-text",
     "slug": "Documentacion_de_calidad",
     "title": "4. Documentación de calidad",
